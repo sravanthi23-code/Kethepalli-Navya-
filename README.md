@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Education
-B.tech,Hyderabad   
+B.tech , Hyderabad   
 
 ### Work Experience
 Associate Consultant @Wipro Technologies
