@@ -12,7 +12,6 @@ Associate Consultant @Wipro Technologies
  Active Employees - card visual
  Average age      - card visual
  Department wise Attrition rate - Pie Visual
-
  Number of Employees by age group and Gender - Stacked Bar Chart 
  Job satisfaction across different Roles - Matrix
  Education wise Attrition - Cluster Bar chart
