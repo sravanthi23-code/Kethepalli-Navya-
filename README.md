@@ -6,16 +6,16 @@ B.tech , Hyderabad
 ### Work Experience
 Associate Consultant @Wipro Technologies
 - Created HR Analytics Dashbaord which shows
- Total Employees - card visual
- Attrition count - card visual
- Attrition rate  - card visual
- Active Employees - card visual
- Average age      - card visual
- Department wise Attrition rate - Pie Visual
- Number of Employees by age group and Gender - Stacked Bar Chart 
- Job satisfaction across different Roles - Matrix
- Education wise Attrition - Cluster Bar chart
- Attrition Rate By Gender for Different Age Group - Pie chart
+ Total Employees 
+ Attrition count 
+ Attrition rate  
+ Active Employees 
+ Average age      
+ Department wise Attrition rate 
+ Number of Employees by age group and Gender 
+ Job satisfaction across different Roles 
+ Education wise Attrition 
+ Attrition Rate By Gender for Different Age Group 
 
 - Created Dashboards on Yearly and Monthly Reports
 
